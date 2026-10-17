@@ -1,10 +1,7 @@
 {
-    "Shampoo": {
-        "price": 800,
-        "Quantity": 60
-    },
-    "ABC": {
-        "price": 100.0,
-        "Quantity": 10
+    "Herbal Shampoo": {
+        "price": 700,
+        "brand": "Loreal",
+        "Quantity": 2
     }
 }
